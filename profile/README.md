@@ -8,6 +8,6 @@ An initiative to promote awareness and participation in open-source software dev
 **Here are some of the topics you will learn:**
 
 * 🙋‍♀️ Fundamentals of open-source software
-* 🌌 Practical open source collaboartion on the GitHub developer platform
+* 🌌 Practical open source collaboration on the GitHub developer platform
 * 👩‍💻 Hands-on principles of software development lifecycle and source-code versioning with Git
 * 🍿 Meet and network with other fellow humans who are enthusiastic about open source software
